@@ -1,0 +1,17 @@
+.add-todo {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.add-todo__input {
+    padding: 1rem;
+    font-size: 16px;
+}
+
+.add-todo__button {
+    padding: 1rem;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #dcdcdc;
+}
